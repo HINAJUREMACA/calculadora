@@ -23,7 +23,7 @@ function init() {
     var cero = document.getElementById('cero');
 }
 
-
+//cualquier cosa//
 uno.onclick = function (e) {
     resultado.textContent = resultado.textContent + "1";
 }
